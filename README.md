@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Martinsos/Martinsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi all! I am a computer scientist / software engineer / founder, currently focused on shaping the future of web app development with 🐝 https://github.com/wasp-lang/wasp 🐝 .
+I am a computer scientist / software engineer / founder, currently focused on shaping the future of web app development with 🐝 https://github.com/wasp-lang/wasp 🐝 .
 
 While I am a generalist and enjoy learning new languages, currently I am having most of of the fun while coding in Haskell and Javascript.
 
