@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 I am a computer scientist / software engineer / founder, currently focused on shaping the future of web app development with 🐝 https://github.com/wasp-lang/wasp 🐝 .
 
-While I am a generalist and enjoy learning new languages, currently I am having most of of the fun while coding in Haskell and Javascript.
+While I am a generalist and enjoy learning new languages, currently I am having most fun while coding in Haskell and TypeScript.
 
-In my free time I enjoy mechanical keyboards, bodyweight exercise and Rocket League.
+I also enjoy configuring my Emacs and keeping my Archlinux working.
+
+In my free time I enjoy mechanical keyboards, bodyweight exercise, Rocket League and playing music.
